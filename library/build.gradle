@@ -10,7 +10,6 @@ group = 'com.github.Narendra-JU'
 repositories {
     mavenCentral()
     google()
-    jcenter()
     maven { url "https://jitpack.io" }
 }
 
