@@ -1,5 +1,9 @@
-<manifest package="io.jitpack.api">
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.jitpack.api" >
 
-    <application />
+    <application>
+
+    </application>
 
 </manifest>
